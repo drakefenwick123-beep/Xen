@@ -1,0 +1,4 @@
+  git clone https://github.com/xNovaLabs/Xen.git
+  cd Xen
+  npm i
+  node index.mjs
